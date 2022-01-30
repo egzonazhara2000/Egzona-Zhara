@@ -1,2 +1,2 @@
 # Egzona-Zhara
-PN - Learning Managment System Oline
+PN - Learning Managment System Online
